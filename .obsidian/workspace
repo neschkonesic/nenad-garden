@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "7704c51b8ccab9e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "940336732708a245",
+        "type": "split",
+        "dimension": 76.21794871794872,
+        "children": [
+          {
+            "id": "4d413c895e301116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkovi.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "c8ca47ceba0fa59a"
+          },
+          {
+            "id": "aa89e181c712ed8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linkovi.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            },
+            "group": "c8ca47ceba0fa59a"
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "9f4e27d50ea2e1b0",
+        "type": "leaf",
+        "dimension": 23.78205128205128,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "linkovi.md"
+          }
+        },
+        "group": "c8ca47ceba0fa59a"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ff771e1ec3e27db",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a009c0b23760f8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c76f1f5b1d90133",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e44ffcbc783ec03c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e03fe9f7fab17864",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87e178894fb24e0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6875e96a3ee82550",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17fa23be915af192",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linkovi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "502161ba83d829f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "linkovi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92784c0fc6f129cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37c8cdfbe495fd80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "linkovi.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4d413c895e301116",
+  "lastOpenFiles": [
+    "|.md",
+    "linkovi.md",
+    "Changelog.md",
+    "Getting Started.md",
+    "Markdown.md"
+  ]
+}
